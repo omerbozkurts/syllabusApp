@@ -1,3 +1,3 @@
 # BSM201 Proje
 # Proje Konusu: Ders Programı
-# Ekip Üyesi: Enes Şen(200101073)
+# Ekip Üyeleri: Enes Şen(200101073) & Ertuğ Kuvvet(200101074)
